@@ -8,7 +8,7 @@ This repository hosts the code for SDRC
 
 ## How it works
 
-®You can make almost any RC car self driving using the donkey library.  
+You can make almost any RC car self driving using the donkey library.  
 
 
 ## Where to Buy Kit
