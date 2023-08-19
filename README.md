@@ -26,7 +26,7 @@ This site has all instructions and materials needed.
 <p align="center">
   <img alt="Light" src="./images/20200103_122049.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="./images/20200103_122049.jpg" width="45%">
+  <img alt="Dark" src="./images/20200101_112657.jpg" width="45%">
 </p>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=paPWSxHZP8o" target="_blank">
  <img src="http://img.youtube.com/vi/paPWSxHZP8o/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
