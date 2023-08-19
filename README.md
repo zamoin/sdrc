@@ -2,17 +2,18 @@
 
 <img src="./images/20200103_122049.jpg" width="50%">
 
-
 ## Overview
 
 This repository hosts the code for SDRC
 
 ## How it works
 
+®You can make almost any RC car self driving using the donkey library.  
+
 
 ## Where to Buy Kit
-This site has all instructions and materials needed.
 
+You can buy all the parts for ~$250 on Amazon and it takes ~2 hours to assemble. 
 
 
 ## Summer - 2019
